@@ -1,5 +1,7 @@
 This guide provides instructions for setting up the Python script that interacts with OBS through global shortcuts in KDE Plasma.
 
+Before proceeding with this setup, ensure you follow the guidelines provided in the [Arch Wiki](https://wiki.archlinux.org/title/Open_Broadcaster_Software#Global_shortcuts_in_KDE_not_working) to address any issues with global shortcuts in KDE not working with OBS.
+
 ## Usage
 
 1. **Clone the Repository**
